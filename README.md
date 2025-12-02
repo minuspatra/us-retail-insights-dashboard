@@ -11,8 +11,13 @@ Histogram to display the 'Customer order frequency'
 Tools used:VSCode, Microsoft Excel, Pandas & Matplotlib python libraries.
 
 Key Insights of the Project:
+
 Revenue peaks in April and December, likely due to seasonal shopping trends.
+
 Dallas and New York are the top-performing cities in terms of sales revenue.
+
 Electronics and Kitchen categories contribute the most to sales revenue.
+
 Amazon Pay and PayPal are the most preferred payment methods among customers.
+
 A significant number of customers place multiple orders, indicating potential for customer retention strategies.
