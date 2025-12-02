@@ -1,1 +1,501 @@
-
+Order_ID,Customer_ID,City,Category,Order_Value,Quantity,Month,Payment_Mode
+ORD1000,CUST18,New York,Electronics,169.35,2,Sep,Credit Card
+ORD1001,CUST147,Dallas,Outdoor,442.96,5,Feb,PayPal
+ORD1002,CUST146,Chicago,Decor,92.37,3,Jan,PayPal
+ORD1003,CUST82,Seattle,Kitchen,60.3,4,Mar,Debit
+ORD1004,CUST87,Atlanta,Kitchen,340.21,1,Jan,Amazon Pay
+ORD1005,CUST79,New York,Decor,62.68,4,Apr,Credit Card
+ORD1006,CUST62,Dallas,Decor,114.42,5,May,PayPal
+ORD1007,CUST26,Seattle,Outdoor,458.81,2,Jul,Debit
+ORD1008,CUST66,San Francisco,Kitchen,296.14,5,Mar,Debit
+ORD1009,CUST48,New York,Outdoor,257.88,2,Apr,Credit Card
+ORD1010,CUST143,New York,Decor,218.61,2,Aug,PayPal
+ORD1011,CUST30,Chicago,Furniture,482.4,3,Apr,Amazon Pay
+ORD1012,CUST89,Seattle,Furniture,125.72,5,Jan,PayPal
+ORD1013,CUST147,San Francisco,Electronics,151.47,2,Jul,Amazon Pay
+ORD1014,CUST35,San Francisco,Kitchen,496.27,3,May,PayPal
+ORD1015,CUST32,New York,Kitchen,480.04,5,Jul,Amazon Pay
+ORD1016,CUST123,Seattle,Furniture,443.59,2,Aug,Debit
+ORD1017,CUST11,Dallas,Furniture,493.31,5,Jan,Credit Card
+ORD1018,CUST60,Seattle,Furniture,468.13,1,Dec,Credit Card
+ORD1019,CUST127,New York,Electronics,194.45,2,Sep,PayPal
+ORD1020,CUST81,Seattle,Kitchen,470.2,5,Jun,PayPal
+ORD1021,CUST23,Seattle,Electronics,446.97,3,Oct,PayPal
+ORD1022,CUST149,New York,Decor,440.84,5,Dec,PayPal
+ORD1023,CUST112,Chicago,Decor,75.67,4,Feb,Debit
+ORD1024,CUST81,Chicago,Kitchen,31.26,5,Jun,Debit
+ORD1025,CUST148,Dallas,Electronics,137.84,4,May,Credit Card
+ORD1026,CUST116,Atlanta,Decor,251.43,3,Oct,Amazon Pay
+ORD1027,CUST68,Dallas,Furniture,66.45,5,Jul,Credit Card
+ORD1028,CUST13,San Francisco,Decor,177.3,4,Aug,Credit Card
+ORD1029,CUST86,Dallas,Furniture,99.14,5,Jun,PayPal
+ORD1030,CUST27,New York,Electronics,384.22,4,Dec,PayPal
+ORD1031,CUST55,Chicago,Kitchen,180.84,2,Apr,Credit Card
+ORD1032,CUST36,New York,Outdoor,299.04,5,May,Amazon Pay
+ORD1033,CUST130,Chicago,Kitchen,136.43,4,Nov,Credit Card
+ORD1034,CUST92,Dallas,Kitchen,286.17,3,Aug,Debit
+ORD1035,CUST57,San Francisco,Furniture,490.78,2,Jun,PayPal
+ORD1036,CUST85,New York,Outdoor,372.4,3,Aug,Amazon Pay
+ORD1037,CUST82,Chicago,Electronics,239.8,3,Dec,Debit
+ORD1038,CUST61,New York,Decor,221.6,1,May,Amazon Pay
+ORD1039,CUST74,San Francisco,Outdoor,250.55,5,Apr,PayPal
+ORD1040,CUST149,San Francisco,Kitchen,249.24,5,Jun,Credit Card
+ORD1041,CUST106,Dallas,Decor,143.1,5,Jan,Credit Card
+ORD1042,CUST142,Dallas,Electronics,443.69,3,Aug,Credit Card
+ORD1043,CUST9,San Francisco,Decor,487.75,2,Jan,Credit Card
+ORD1044,CUST114,New York,Furniture,447.25,1,Sep,Credit Card
+ORD1045,CUST33,San Francisco,Decor,90.37,1,Sep,Debit
+ORD1046,CUST106,Atlanta,Kitchen,133.23,5,Jan,PayPal
+ORD1047,CUST124,Seattle,Furniture,450.72,2,Jan,Credit Card
+ORD1048,CUST128,New York,Furniture,194.77,4,Sep,PayPal
+ORD1049,CUST145,Dallas,Outdoor,373.14,4,Aug,PayPal
+ORD1050,CUST100,New York,Decor,215.48,2,Dec,PayPal
+ORD1051,CUST71,Dallas,Electronics,221.32,1,Apr,Debit
+ORD1052,CUST73,Seattle,Outdoor,134.16,1,Aug,Credit Card
+ORD1053,CUST5,Atlanta,Outdoor,49.09,2,Jun,Debit
+ORD1054,CUST115,New York,Decor,152.79,4,Mar,Debit
+ORD1055,CUST1,San Francisco,Electronics,134.85,3,Dec,Debit
+ORD1056,CUST18,Seattle,Electronics,158.65,4,Jul,Credit Card
+ORD1057,CUST37,New York,Electronics,302.72,4,Oct,Amazon Pay
+ORD1058,CUST56,San Francisco,Electronics,430.73,4,Dec,Amazon Pay
+ORD1059,CUST101,Chicago,Kitchen,71.82,1,May,Amazon Pay
+ORD1060,CUST120,Seattle,Kitchen,476.46,5,May,Amazon Pay
+ORD1061,CUST29,New York,Outdoor,262.53,5,Nov,Amazon Pay
+ORD1062,CUST9,Chicago,Decor,417.89,5,Aug,Amazon Pay
+ORD1063,CUST31,Chicago,Electronics,187.19,3,Jul,Debit
+ORD1064,CUST14,Chicago,Outdoor,122.27,3,Jul,Amazon Pay
+ORD1065,CUST95,Atlanta,Outdoor,209.2,3,Jun,Debit
+ORD1066,CUST72,Seattle,Furniture,476.04,3,Aug,Credit Card
+ORD1067,CUST30,Atlanta,Furniture,338.26,4,Dec,Amazon Pay
+ORD1068,CUST46,San Francisco,Kitchen,413.72,2,Nov,Amazon Pay
+ORD1069,CUST11,Dallas,Furniture,457.67,2,Aug,Amazon Pay
+ORD1070,CUST143,Chicago,Decor,30.88,4,Jul,Credit Card
+ORD1071,CUST102,New York,Decor,273.09,2,Dec,Amazon Pay
+ORD1072,CUST87,New York,Electronics,253.64,1,Jul,Debit
+ORD1073,CUST48,Atlanta,Outdoor,283.15,1,Jun,Credit Card
+ORD1074,CUST59,New York,Outdoor,372.07,4,Mar,Debit
+ORD1075,CUST108,New York,Furniture,179.87,5,Mar,Debit
+ORD1076,CUST54,Atlanta,Kitchen,315.19,1,Aug,Debit
+ORD1077,CUST135,San Francisco,Kitchen,387.63,2,Apr,Amazon Pay
+ORD1078,CUST35,Chicago,Electronics,352.13,5,Nov,PayPal
+ORD1079,CUST85,San Francisco,Furniture,242.35,4,Mar,Amazon Pay
+ORD1080,CUST127,Atlanta,Furniture,39.46,1,Jan,Debit
+ORD1081,CUST4,Dallas,Kitchen,411.27,1,Aug,Amazon Pay
+ORD1082,CUST79,Chicago,Furniture,463.75,1,May,Debit
+ORD1083,CUST90,Atlanta,Furniture,374.63,1,Jan,Amazon Pay
+ORD1084,CUST12,Seattle,Kitchen,332.89,5,Apr,Amazon Pay
+ORD1085,CUST90,Seattle,Electronics,211.67,4,Dec,Credit Card
+ORD1086,CUST22,Chicago,Outdoor,278.77,4,Dec,PayPal
+ORD1087,CUST70,Chicago,Electronics,318.63,4,Jul,Amazon Pay
+ORD1088,CUST14,New York,Kitchen,295.04,1,Oct,Credit Card
+ORD1089,CUST120,Chicago,Decor,205.01,2,Jun,Credit Card
+ORD1090,CUST56,San Francisco,Kitchen,118.7,5,Sep,Credit Card
+ORD1091,CUST125,San Francisco,Electronics,117.76,4,Aug,Amazon Pay
+ORD1092,CUST132,Seattle,Outdoor,347.79,5,Feb,Amazon Pay
+ORD1093,CUST8,Seattle,Furniture,156.22,4,May,Credit Card
+ORD1094,CUST110,San Francisco,Kitchen,376.97,5,Dec,PayPal
+ORD1095,CUST74,New York,Outdoor,22.11,3,Nov,PayPal
+ORD1096,CUST52,New York,Decor,437.39,1,Sep,Credit Card
+ORD1097,CUST49,Atlanta,Furniture,360.62,5,Feb,Amazon Pay
+ORD1098,CUST42,Dallas,Furniture,259.93,2,Jan,Amazon Pay
+ORD1099,CUST2,Atlanta,Outdoor,327.98,1,Dec,Credit Card
+ORD1100,CUST85,New York,Electronics,420.96,4,Feb,Credit Card
+ORD1101,CUST12,Dallas,Decor,233.4,5,Mar,Debit
+ORD1102,CUST14,San Francisco,Decor,486.84,4,Dec,Amazon Pay
+ORD1103,CUST20,Seattle,Kitchen,394.69,2,Apr,PayPal
+ORD1104,CUST1,New York,Outdoor,233.59,4,Feb,Credit Card
+ORD1105,CUST131,Atlanta,Outdoor,119.09,5,Oct,Amazon Pay
+ORD1106,CUST144,Chicago,Outdoor,271.48,2,Mar,PayPal
+ORD1107,CUST17,Atlanta,Decor,372.66,1,Sep,Amazon Pay
+ORD1108,CUST125,Chicago,Outdoor,274.57,3,Nov,Amazon Pay
+ORD1109,CUST120,San Francisco,Electronics,31.54,1,Sep,PayPal
+ORD1110,CUST96,New York,Furniture,396.34,3,Dec,Debit
+ORD1111,CUST8,San Francisco,Electronics,271.07,2,Jun,Debit
+ORD1112,CUST56,Seattle,Kitchen,444,4,Sep,Debit
+ORD1113,CUST12,Dallas,Outdoor,174.22,1,Oct,Amazon Pay
+ORD1114,CUST34,Seattle,Electronics,398.61,4,Mar,Debit
+ORD1115,CUST76,Seattle,Electronics,110.49,5,Oct,Credit Card
+ORD1116,CUST100,Atlanta,Outdoor,405.57,1,Feb,Debit
+ORD1117,CUST9,New York,Furniture,303.14,3,Dec,PayPal
+ORD1118,CUST116,Dallas,Decor,272.25,2,Oct,Amazon Pay
+ORD1119,CUST47,New York,Electronics,415.87,3,Nov,Debit
+ORD1120,CUST12,Seattle,Outdoor,245.97,1,Jul,Debit
+ORD1121,CUST87,San Francisco,Kitchen,51.85,4,Dec,Amazon Pay
+ORD1122,CUST3,New York,Electronics,76.28,3,Aug,Debit
+ORD1123,CUST20,New York,Furniture,153.01,3,Aug,Amazon Pay
+ORD1124,CUST71,San Francisco,Furniture,151.43,2,Aug,Amazon Pay
+ORD1125,CUST112,Chicago,Furniture,424.25,4,Nov,Debit
+ORD1126,CUST133,Seattle,Furniture,377.28,3,Jun,Amazon Pay
+ORD1127,CUST18,San Francisco,Decor,183.17,4,Aug,Credit Card
+ORD1128,CUST68,New York,Electronics,341.08,2,Apr,PayPal
+ORD1129,CUST3,New York,Decor,193.83,2,Dec,Debit
+ORD1130,CUST12,New York,Kitchen,457.25,3,Apr,Debit
+ORD1131,CUST117,Atlanta,Furniture,449.59,5,Oct,PayPal
+ORD1132,CUST21,Atlanta,Kitchen,234.24,2,Feb,Credit Card
+ORD1133,CUST99,Dallas,Furniture,438.02,3,Dec,Debit
+ORD1134,CUST136,Atlanta,Decor,240.58,5,Dec,Credit Card
+ORD1135,CUST134,Dallas,Outdoor,24.92,3,Sep,Amazon Pay
+ORD1136,CUST9,Dallas,Furniture,256.43,4,Jul,PayPal
+ORD1137,CUST138,Chicago,Furniture,174.74,2,May,Credit Card
+ORD1138,CUST124,Seattle,Decor,271.06,3,Jan,PayPal
+ORD1139,CUST142,New York,Furniture,73.52,3,Jan,Amazon Pay
+ORD1140,CUST135,Chicago,Electronics,22.28,5,Nov,Debit
+ORD1141,CUST141,San Francisco,Decor,21.69,1,Mar,Credit Card
+ORD1142,CUST71,Seattle,Decor,268.06,4,Jan,Amazon Pay
+ORD1143,CUST127,Chicago,Kitchen,242.27,5,Nov,Credit Card
+ORD1144,CUST64,Seattle,Outdoor,225.57,5,Apr,Debit
+ORD1145,CUST74,New York,Kitchen,149.43,5,Mar,Amazon Pay
+ORD1146,CUST139,Chicago,Outdoor,421.49,2,Dec,Credit Card
+ORD1147,CUST46,Chicago,Outdoor,214.63,4,Aug,Amazon Pay
+ORD1148,CUST27,San Francisco,Outdoor,39.86,1,Nov,Amazon Pay
+ORD1149,CUST49,Dallas,Furniture,235.11,1,Oct,Credit Card
+ORD1150,CUST134,Seattle,Furniture,147.59,2,Jun,Credit Card
+ORD1151,CUST54,New York,Decor,87.38,1,Jul,Credit Card
+ORD1152,CUST21,Seattle,Electronics,359.73,4,Feb,Credit Card
+ORD1153,CUST113,Seattle,Outdoor,475.56,5,Apr,Debit
+ORD1154,CUST24,New York,Decor,159.13,1,Feb,Credit Card
+ORD1155,CUST150,Dallas,Furniture,448.95,4,Mar,Debit
+ORD1156,CUST8,Chicago,Electronics,155.77,4,Jul,PayPal
+ORD1157,CUST17,Chicago,Outdoor,164.41,3,Apr,PayPal
+ORD1158,CUST9,Dallas,Furniture,401.82,1,Oct,Amazon Pay
+ORD1159,CUST2,Chicago,Kitchen,215.36,3,Jul,Credit Card
+ORD1160,CUST73,Seattle,Kitchen,236.9,4,Aug,Amazon Pay
+ORD1161,CUST146,Seattle,Furniture,348.16,3,Jun,Debit
+ORD1162,CUST47,New York,Outdoor,84.31,1,Jul,Debit
+ORD1163,CUST45,Dallas,Outdoor,436.87,4,Oct,PayPal
+ORD1164,CUST106,Chicago,Outdoor,51.97,1,Mar,Debit
+ORD1165,CUST117,Chicago,Kitchen,87.22,5,Nov,Debit
+ORD1166,CUST31,New York,Kitchen,156.44,4,Sep,PayPal
+ORD1167,CUST102,Atlanta,Kitchen,362.84,3,Jul,PayPal
+ORD1168,CUST87,Dallas,Kitchen,85.38,4,Feb,PayPal
+ORD1169,CUST89,San Francisco,Kitchen,51.78,1,Feb,Debit
+ORD1170,CUST39,Chicago,Electronics,98.53,5,Sep,Amazon Pay
+ORD1171,CUST49,New York,Electronics,210.8,2,Aug,Credit Card
+ORD1172,CUST63,Chicago,Furniture,50.55,1,Mar,PayPal
+ORD1173,CUST103,San Francisco,Decor,338.34,2,Jan,Credit Card
+ORD1174,CUST28,Atlanta,Furniture,198.74,3,Jul,Debit
+ORD1175,CUST139,Seattle,Outdoor,269.2,2,Mar,Debit
+ORD1176,CUST111,Chicago,Furniture,409.86,1,Jul,PayPal
+ORD1177,CUST4,Atlanta,Kitchen,210.82,3,Sep,PayPal
+ORD1178,CUST128,Atlanta,Kitchen,389.26,4,Apr,PayPal
+ORD1179,CUST38,Chicago,Outdoor,64.41,4,May,PayPal
+ORD1180,CUST50,Chicago,Furniture,421.12,3,Feb,PayPal
+ORD1181,CUST19,Seattle,Decor,312.23,3,Feb,Debit
+ORD1182,CUST24,Atlanta,Outdoor,43.04,4,Aug,PayPal
+ORD1183,CUST66,Dallas,Kitchen,463.27,1,Jul,PayPal
+ORD1184,CUST121,Atlanta,Kitchen,406.16,4,Dec,Amazon Pay
+ORD1185,CUST25,Seattle,Decor,95.97,1,Jul,Credit Card
+ORD1186,CUST58,New York,Furniture,344.89,1,Jul,Amazon Pay
+ORD1187,CUST94,Chicago,Furniture,340.88,1,Apr,Debit
+ORD1188,CUST5,Seattle,Decor,495.76,3,Jul,Credit Card
+ORD1189,CUST126,Chicago,Kitchen,146.41,5,May,Debit
+ORD1190,CUST23,New York,Decor,115.53,5,Aug,Amazon Pay
+ORD1191,CUST6,Dallas,Furniture,430.23,5,Oct,Debit
+ORD1192,CUST61,Atlanta,Outdoor,499.65,4,Mar,Debit
+ORD1193,CUST107,Chicago,Furniture,278.13,3,Oct,Credit Card
+ORD1194,CUST4,Chicago,Furniture,375.04,1,Jan,PayPal
+ORD1195,CUST21,Dallas,Furniture,304.89,2,Mar,Debit
+ORD1196,CUST22,New York,Kitchen,93.31,5,Jan,Credit Card
+ORD1197,CUST114,San Francisco,Electronics,499.54,5,Aug,PayPal
+ORD1198,CUST66,Chicago,Outdoor,181.9,2,Nov,PayPal
+ORD1199,CUST54,Chicago,Decor,354.69,5,Oct,Debit
+ORD1200,CUST130,Chicago,Decor,276.57,3,Feb,PayPal
+ORD1201,CUST77,Atlanta,Electronics,190.1,3,Sep,Credit Card
+ORD1202,CUST86,San Francisco,Decor,289.55,1,Feb,PayPal
+ORD1203,CUST68,Seattle,Electronics,192.34,3,Feb,Debit
+ORD1204,CUST65,Dallas,Kitchen,319.13,1,Nov,PayPal
+ORD1205,CUST60,San Francisco,Decor,405.15,1,Apr,PayPal
+ORD1206,CUST116,San Francisco,Decor,268.62,2,Mar,PayPal
+ORD1207,CUST150,San Francisco,Electronics,460.53,1,Oct,Amazon Pay
+ORD1208,CUST39,Atlanta,Kitchen,293.23,4,May,Amazon Pay
+ORD1209,CUST4,New York,Decor,192.94,4,Nov,PayPal
+ORD1210,CUST72,New York,Outdoor,28.65,4,Jan,Debit
+ORD1211,CUST139,Seattle,Outdoor,172.48,1,Nov,Credit Card
+ORD1212,CUST127,Atlanta,Outdoor,163.07,1,Jun,Debit
+ORD1213,CUST36,Seattle,Electronics,383.03,2,Oct,Credit Card
+ORD1214,CUST92,Dallas,Kitchen,446.71,3,Jul,Credit Card
+ORD1215,CUST101,Atlanta,Electronics,304.95,1,Jul,Amazon Pay
+ORD1216,CUST73,Dallas,Furniture,179.68,5,Aug,Amazon Pay
+ORD1217,CUST36,Seattle,Electronics,76.06,5,Jan,Credit Card
+ORD1218,CUST32,Dallas,Kitchen,401.72,5,Oct,Debit
+ORD1219,CUST13,Atlanta,Electronics,419.2,4,Dec,Credit Card
+ORD1220,CUST68,Atlanta,Kitchen,34.97,2,Aug,Credit Card
+ORD1221,CUST105,Atlanta,Decor,459.64,3,Apr,Amazon Pay
+ORD1222,CUST46,Dallas,Electronics,492.72,3,Jul,PayPal
+ORD1223,CUST148,New York,Kitchen,248.22,4,Jan,Debit
+ORD1224,CUST135,Atlanta,Decor,89.39,1,Mar,PayPal
+ORD1225,CUST30,San Francisco,Electronics,51.69,1,Dec,PayPal
+ORD1226,CUST138,San Francisco,Furniture,235.01,1,Oct,PayPal
+ORD1227,CUST52,San Francisco,Kitchen,451.56,4,Oct,Credit Card
+ORD1228,CUST115,San Francisco,Outdoor,256.85,5,May,PayPal
+ORD1229,CUST144,Seattle,Kitchen,139.59,3,Jan,Credit Card
+ORD1230,CUST143,Dallas,Outdoor,208.18,3,Feb,Amazon Pay
+ORD1231,CUST60,Seattle,Furniture,260.01,1,Apr,Amazon Pay
+ORD1232,CUST120,New York,Furniture,467.2,3,May,Credit Card
+ORD1233,CUST1,Atlanta,Electronics,499.15,1,Feb,PayPal
+ORD1234,CUST94,Seattle,Kitchen,464.09,4,Jul,Debit
+ORD1235,CUST145,San Francisco,Kitchen,425.4,1,Aug,Debit
+ORD1236,CUST50,Atlanta,Electronics,347.49,3,Jan,Amazon Pay
+ORD1237,CUST39,Atlanta,Decor,373.82,1,Oct,Amazon Pay
+ORD1238,CUST120,Seattle,Electronics,336.88,4,Jul,Amazon Pay
+ORD1239,CUST117,New York,Outdoor,266.71,5,Oct,Debit
+ORD1240,CUST95,San Francisco,Kitchen,284.86,1,Jul,Debit
+ORD1241,CUST65,Chicago,Electronics,366.42,4,Oct,PayPal
+ORD1242,CUST3,Chicago,Electronics,275.59,2,Jul,Debit
+ORD1243,CUST19,New York,Furniture,305.17,2,Mar,Credit Card
+ORD1244,CUST85,Chicago,Kitchen,231.73,2,Mar,Credit Card
+ORD1245,CUST121,San Francisco,Kitchen,201.72,2,May,Amazon Pay
+ORD1246,CUST130,New York,Decor,184.6,1,Mar,Debit
+ORD1247,CUST70,Seattle,Outdoor,415.97,3,Dec,PayPal
+ORD1248,CUST112,Dallas,Outdoor,321.09,1,Oct,Debit
+ORD1249,CUST8,Dallas,Kitchen,462.34,3,May,Debit
+ORD1250,CUST141,Chicago,Decor,311.32,4,Dec,Credit Card
+ORD1251,CUST8,San Francisco,Kitchen,79.12,4,Jul,PayPal
+ORD1252,CUST79,Dallas,Kitchen,246.41,4,Nov,Credit Card
+ORD1253,CUST148,Dallas,Decor,268.02,4,Oct,Amazon Pay
+ORD1254,CUST3,San Francisco,Furniture,321.64,1,Aug,PayPal
+ORD1255,CUST114,Dallas,Electronics,150.95,5,May,Debit
+ORD1256,CUST17,Atlanta,Outdoor,201.37,1,Jul,Credit Card
+ORD1257,CUST42,Seattle,Kitchen,295.67,1,Dec,PayPal
+ORD1258,CUST84,New York,Outdoor,22.35,5,May,Debit
+ORD1259,CUST110,San Francisco,Electronics,235.5,3,Jun,Credit Card
+ORD1260,CUST134,New York,Kitchen,252.6,3,Apr,Credit Card
+ORD1261,CUST40,San Francisco,Electronics,62.39,1,Aug,Amazon Pay
+ORD1262,CUST126,Seattle,Decor,357.1,2,Jan,Debit
+ORD1263,CUST122,San Francisco,Electronics,210.11,2,Feb,Credit Card
+ORD1264,CUST128,New York,Outdoor,112.71,1,Nov,Amazon Pay
+ORD1265,CUST18,New York,Furniture,31.13,3,Oct,Debit
+ORD1266,CUST24,Dallas,Furniture,358.68,1,May,Debit
+ORD1267,CUST122,Chicago,Kitchen,144.28,3,Feb,Amazon Pay
+ORD1268,CUST140,Dallas,Electronics,114.65,3,Jul,Amazon Pay
+ORD1269,CUST119,Dallas,Electronics,256.94,2,Jul,Debit
+ORD1270,CUST65,New York,Outdoor,27.39,3,Aug,Debit
+ORD1271,CUST78,Seattle,Kitchen,298.59,2,Feb,Amazon Pay
+ORD1272,CUST80,New York,Electronics,413.73,1,Jan,Debit
+ORD1273,CUST80,San Francisco,Electronics,321.21,5,Oct,Credit Card
+ORD1274,CUST136,Chicago,Outdoor,53.95,4,Mar,Amazon Pay
+ORD1275,CUST71,San Francisco,Decor,275.34,3,Feb,Debit
+ORD1276,CUST127,New York,Furniture,330.97,3,Jun,PayPal
+ORD1277,CUST26,Atlanta,Decor,103.47,4,Jan,Debit
+ORD1278,CUST73,Seattle,Furniture,20.8,1,May,PayPal
+ORD1279,CUST79,Dallas,Decor,74.8,5,Oct,Credit Card
+ORD1280,CUST89,Chicago,Electronics,102.04,5,Jan,Credit Card
+ORD1281,CUST115,Chicago,Kitchen,108.35,5,May,PayPal
+ORD1282,CUST88,Seattle,Outdoor,21.26,4,Dec,PayPal
+ORD1283,CUST133,Atlanta,Kitchen,228.16,2,Mar,Credit Card
+ORD1284,CUST118,Seattle,Furniture,192.63,4,Sep,Amazon Pay
+ORD1285,CUST44,San Francisco,Furniture,115.5,3,Aug,PayPal
+ORD1286,CUST22,Dallas,Furniture,160,2,Sep,Debit
+ORD1287,CUST18,Seattle,Electronics,99.92,1,Feb,PayPal
+ORD1288,CUST19,San Francisco,Kitchen,201.41,2,Oct,Credit Card
+ORD1289,CUST146,Seattle,Decor,25.17,3,Nov,PayPal
+ORD1290,CUST70,New York,Furniture,373.72,4,Jun,Debit
+ORD1291,CUST25,Chicago,Electronics,103,2,Jun,Debit
+ORD1292,CUST91,New York,Electronics,374.5,4,Apr,Amazon Pay
+ORD1293,CUST9,Dallas,Electronics,339.88,4,Jan,Debit
+ORD1294,CUST6,Atlanta,Decor,43.93,4,Jul,Debit
+ORD1295,CUST31,Dallas,Electronics,287.3,1,Apr,Amazon Pay
+ORD1296,CUST94,Chicago,Decor,456.6,1,Jul,PayPal
+ORD1297,CUST14,New York,Electronics,436.29,5,Mar,PayPal
+ORD1298,CUST14,Chicago,Decor,418.37,5,Feb,Amazon Pay
+ORD1299,CUST82,Atlanta,Kitchen,393.4,3,Jun,Amazon Pay
+ORD1300,CUST71,Chicago,Furniture,326.83,3,Feb,PayPal
+ORD1301,CUST103,Dallas,Kitchen,258.51,5,Aug,PayPal
+ORD1302,CUST80,New York,Outdoor,376.87,3,Mar,Amazon Pay
+ORD1303,CUST50,Dallas,Decor,410.19,3,Jul,Debit
+ORD1304,CUST138,Seattle,Decor,303.85,1,Sep,Debit
+ORD1305,CUST76,Atlanta,Outdoor,368.47,3,Oct,PayPal
+ORD1306,CUST1,Seattle,Electronics,412.87,1,Jan,Credit Card
+ORD1307,CUST32,Dallas,Decor,352.51,4,Nov,Debit
+ORD1308,CUST21,New York,Furniture,126.4,3,Mar,Amazon Pay
+ORD1309,CUST58,New York,Decor,170.74,2,Nov,Credit Card
+ORD1310,CUST120,New York,Decor,44.37,4,Jan,Credit Card
+ORD1311,CUST135,Atlanta,Outdoor,324.09,1,Oct,Credit Card
+ORD1312,CUST112,San Francisco,Outdoor,240.32,3,Mar,Debit
+ORD1313,CUST70,Atlanta,Electronics,219.68,5,Jan,Debit
+ORD1314,CUST147,San Francisco,Furniture,114.35,5,Jun,PayPal
+ORD1315,CUST63,New York,Outdoor,23.58,1,Sep,Debit
+ORD1316,CUST20,Chicago,Kitchen,68.76,3,Jan,Debit
+ORD1317,CUST27,New York,Furniture,67.09,1,Nov,PayPal
+ORD1318,CUST52,San Francisco,Electronics,93.24,3,Apr,Debit
+ORD1319,CUST140,Atlanta,Electronics,489.5,4,Mar,Debit
+ORD1320,CUST16,New York,Kitchen,381.7,3,Feb,Credit Card
+ORD1321,CUST97,Seattle,Kitchen,195.81,4,Nov,PayPal
+ORD1322,CUST58,Atlanta,Outdoor,43.68,4,May,Debit
+ORD1323,CUST104,Dallas,Electronics,315.06,4,Sep,PayPal
+ORD1324,CUST101,Seattle,Furniture,369.3,4,Apr,PayPal
+ORD1325,CUST98,Dallas,Decor,213.71,5,Nov,Amazon Pay
+ORD1326,CUST108,New York,Outdoor,374.08,5,Feb,PayPal
+ORD1327,CUST131,Atlanta,Electronics,160.01,4,Jul,Credit Card
+ORD1328,CUST92,San Francisco,Electronics,50.08,2,Feb,Amazon Pay
+ORD1329,CUST132,Chicago,Outdoor,427.5,2,Aug,Credit Card
+ORD1330,CUST7,New York,Decor,296.65,3,Feb,Credit Card
+ORD1331,CUST16,Atlanta,Decor,391.13,2,Dec,Amazon Pay
+ORD1332,CUST101,Atlanta,Decor,63.57,2,Mar,Debit
+ORD1333,CUST76,Chicago,Furniture,263.34,3,Sep,Credit Card
+ORD1334,CUST39,San Francisco,Kitchen,390.13,2,Nov,Amazon Pay
+ORD1335,CUST18,San Francisco,Kitchen,252.37,5,Apr,Amazon Pay
+ORD1336,CUST141,Atlanta,Outdoor,171.13,4,Mar,Debit
+ORD1337,CUST130,Chicago,Kitchen,225.38,2,Mar,Credit Card
+ORD1338,CUST149,Dallas,Kitchen,149.62,3,Feb,Credit Card
+ORD1339,CUST146,Seattle,Furniture,215.25,2,Feb,PayPal
+ORD1340,CUST57,San Francisco,Kitchen,260.09,2,Jan,PayPal
+ORD1341,CUST105,Atlanta,Electronics,416.62,5,Apr,Credit Card
+ORD1342,CUST8,San Francisco,Outdoor,209.03,4,Nov,Amazon Pay
+ORD1343,CUST125,New York,Outdoor,159.46,4,Feb,Debit
+ORD1344,CUST61,San Francisco,Electronics,137.09,3,Sep,Debit
+ORD1345,CUST133,Chicago,Decor,332.85,4,May,Amazon Pay
+ORD1346,CUST144,Dallas,Kitchen,334.59,3,Apr,Amazon Pay
+ORD1347,CUST14,Atlanta,Electronics,35.7,2,Aug,Debit
+ORD1348,CUST106,San Francisco,Kitchen,155.01,2,Sep,Amazon Pay
+ORD1349,CUST120,Dallas,Electronics,322.36,2,Apr,Amazon Pay
+ORD1350,CUST103,Chicago,Outdoor,210.84,3,May,Amazon Pay
+ORD1351,CUST56,Seattle,Furniture,62.7,2,Dec,Credit Card
+ORD1352,CUST94,New York,Outdoor,492.8,5,Aug,PayPal
+ORD1353,CUST51,Chicago,Furniture,120.33,3,Nov,PayPal
+ORD1354,CUST72,New York,Furniture,66.95,2,Oct,PayPal
+ORD1355,CUST82,Atlanta,Electronics,417.55,2,Sep,Amazon Pay
+ORD1356,CUST85,Chicago,Decor,124.91,2,Dec,Credit Card
+ORD1357,CUST29,San Francisco,Decor,94.65,1,Jan,Debit
+ORD1358,CUST23,Dallas,Furniture,170.74,2,Aug,Amazon Pay
+ORD1359,CUST5,New York,Kitchen,273.14,3,Jan,PayPal
+ORD1360,CUST41,Dallas,Kitchen,71.85,5,Aug,PayPal
+ORD1361,CUST54,Dallas,Decor,206.26,5,Jun,PayPal
+ORD1362,CUST97,Dallas,Kitchen,387.77,2,Apr,Amazon Pay
+ORD1363,CUST44,Chicago,Decor,421.01,5,Dec,PayPal
+ORD1364,CUST111,Seattle,Kitchen,316.7,5,Apr,Amazon Pay
+ORD1365,CUST60,San Francisco,Decor,478.11,3,Mar,Amazon Pay
+ORD1366,CUST8,San Francisco,Outdoor,440.7,1,Apr,Amazon Pay
+ORD1367,CUST148,New York,Kitchen,233.05,4,Jul,Amazon Pay
+ORD1368,CUST47,New York,Kitchen,383.97,5,Jul,Amazon Pay
+ORD1369,CUST79,San Francisco,Outdoor,444.05,1,Jan,PayPal
+ORD1370,CUST29,Dallas,Electronics,79.12,3,Jan,Debit
+ORD1371,CUST109,Chicago,Kitchen,319.68,2,Nov,Credit Card
+ORD1372,CUST66,Seattle,Furniture,224,5,Jul,Amazon Pay
+ORD1373,CUST38,San Francisco,Electronics,240.21,3,Jun,PayPal
+ORD1374,CUST88,Dallas,Electronics,184.87,4,Jul,Credit Card
+ORD1375,CUST19,Chicago,Electronics,309.17,1,Feb,Amazon Pay
+ORD1376,CUST126,New York,Furniture,70.96,1,Nov,PayPal
+ORD1377,CUST119,Dallas,Kitchen,300.65,3,Aug,Debit
+ORD1378,CUST81,Seattle,Electronics,353.2,1,Oct,PayPal
+ORD1379,CUST12,Dallas,Electronics,401.15,5,Oct,Amazon Pay
+ORD1380,CUST125,New York,Furniture,127.73,4,Nov,PayPal
+ORD1381,CUST128,New York,Furniture,331.16,1,Dec,Credit Card
+ORD1382,CUST110,Chicago,Furniture,321.39,1,Sep,PayPal
+ORD1383,CUST134,Seattle,Furniture,336.86,5,Apr,PayPal
+ORD1384,CUST118,San Francisco,Furniture,72.66,1,Feb,Credit Card
+ORD1385,CUST13,Seattle,Kitchen,353.48,2,Jul,Amazon Pay
+ORD1386,CUST82,New York,Furniture,27.22,1,May,Credit Card
+ORD1387,CUST15,Seattle,Furniture,110.41,4,Feb,Amazon Pay
+ORD1388,CUST98,Dallas,Decor,489.26,1,Apr,Credit Card
+ORD1389,CUST102,San Francisco,Outdoor,124.7,4,Sep,Debit
+ORD1390,CUST100,Atlanta,Electronics,390.64,3,Feb,PayPal
+ORD1391,CUST87,New York,Outdoor,484.78,4,Sep,PayPal
+ORD1392,CUST9,Seattle,Electronics,148.84,5,Feb,PayPal
+ORD1393,CUST136,San Francisco,Decor,459.61,5,Nov,Amazon Pay
+ORD1394,CUST55,Atlanta,Decor,270.37,3,Jul,Debit
+ORD1395,CUST131,Seattle,Decor,72.08,2,Dec,Credit Card
+ORD1396,CUST83,Chicago,Furniture,287.1,3,Jan,PayPal
+ORD1397,CUST27,Dallas,Decor,57.79,1,Nov,PayPal
+ORD1398,CUST102,Dallas,Electronics,482.66,3,Jan,Amazon Pay
+ORD1399,CUST138,Chicago,Electronics,481.3,4,Apr,Amazon Pay
+ORD1400,CUST133,San Francisco,Electronics,125.34,2,Aug,Amazon Pay
+ORD1401,CUST131,Atlanta,Furniture,420.15,3,May,PayPal
+ORD1402,CUST121,Dallas,Kitchen,399.55,2,Sep,Credit Card
+ORD1403,CUST11,San Francisco,Furniture,490.93,3,Jun,Debit
+ORD1404,CUST104,New York,Furniture,247,4,Aug,Debit
+ORD1405,CUST136,Seattle,Furniture,465.73,2,Dec,Amazon Pay
+ORD1406,CUST54,Atlanta,Electronics,121.15,1,Apr,Debit
+ORD1407,CUST112,Chicago,Kitchen,367.48,5,Oct,Credit Card
+ORD1408,CUST106,Seattle,Furniture,58.01,1,Apr,Credit Card
+ORD1409,CUST97,Atlanta,Electronics,494.03,1,Sep,Credit Card
+ORD1410,CUST49,Dallas,Outdoor,462.53,1,Feb,Amazon Pay
+ORD1411,CUST30,Atlanta,Electronics,313.22,1,Jul,PayPal
+ORD1412,CUST95,Dallas,Kitchen,456.24,1,Apr,Credit Card
+ORD1413,CUST15,Dallas,Kitchen,353.66,5,Aug,Debit
+ORD1414,CUST42,San Francisco,Decor,106.45,3,Nov,Credit Card
+ORD1415,CUST112,Dallas,Furniture,110.69,4,Oct,Credit Card
+ORD1416,CUST139,Seattle,Kitchen,125.62,5,May,Credit Card
+ORD1417,CUST57,Atlanta,Decor,256.71,1,Apr,PayPal
+ORD1418,CUST66,Chicago,Outdoor,472.28,5,Sep,Credit Card
+ORD1419,CUST26,New York,Outdoor,131.98,5,Sep,PayPal
+ORD1420,CUST55,Atlanta,Outdoor,162.6,4,Mar,Debit
+ORD1421,CUST18,Seattle,Decor,499.96,4,Jun,Credit Card
+ORD1422,CUST120,Dallas,Electronics,378.08,1,Apr,Credit Card
+ORD1423,CUST88,Atlanta,Electronics,90.38,3,Jul,Debit
+ORD1424,CUST15,Atlanta,Electronics,101.58,5,Apr,PayPal
+ORD1425,CUST29,Chicago,Outdoor,155.73,1,Apr,Credit Card
+ORD1426,CUST74,Dallas,Kitchen,350.2,5,Oct,PayPal
+ORD1427,CUST109,Atlanta,Electronics,291.04,5,Nov,PayPal
+ORD1428,CUST48,San Francisco,Electronics,335.37,3,May,Credit Card
+ORD1429,CUST111,Dallas,Electronics,493.73,4,Aug,Debit
+ORD1430,CUST78,Seattle,Decor,383.04,1,Feb,Debit
+ORD1431,CUST30,Dallas,Kitchen,438.31,1,Nov,PayPal
+ORD1432,CUST42,Seattle,Decor,216.74,1,Feb,Credit Card
+ORD1433,CUST123,Atlanta,Kitchen,340.33,3,Sep,Credit Card
+ORD1434,CUST41,New York,Furniture,466.45,3,Sep,Credit Card
+ORD1435,CUST55,San Francisco,Electronics,422.22,4,Mar,Debit
+ORD1436,CUST63,Chicago,Furniture,343.2,4,Apr,PayPal
+ORD1437,CUST117,New York,Decor,151.53,4,Nov,PayPal
+ORD1438,CUST102,New York,Furniture,262.49,5,Apr,Amazon Pay
+ORD1439,CUST52,Seattle,Furniture,97.26,4,May,Debit
+ORD1440,CUST81,Seattle,Furniture,229.08,2,Jul,PayPal
+ORD1441,CUST81,Seattle,Outdoor,306.64,1,Nov,Amazon Pay
+ORD1442,CUST34,New York,Kitchen,52.4,2,May,Credit Card
+ORD1443,CUST111,New York,Electronics,163.46,4,Jan,PayPal
+ORD1444,CUST146,New York,Kitchen,462.06,5,Mar,Credit Card
+ORD1445,CUST30,Chicago,Kitchen,116.68,3,Jul,Credit Card
+ORD1446,CUST43,Seattle,Furniture,140.66,5,May,Credit Card
+ORD1447,CUST111,Dallas,Outdoor,273.56,4,Jun,Credit Card
+ORD1448,CUST12,San Francisco,Electronics,498.75,1,Mar,Amazon Pay
+ORD1449,CUST145,Chicago,Electronics,329.97,1,Jul,Amazon Pay
+ORD1450,CUST82,Dallas,Decor,386.5,2,Dec,Credit Card
+ORD1451,CUST59,New York,Furniture,20.66,2,Oct,Amazon Pay
+ORD1452,CUST117,San Francisco,Outdoor,40.23,4,Jun,Debit
+ORD1453,CUST28,Chicago,Electronics,34.35,2,Sep,Debit
+ORD1454,CUST48,Chicago,Outdoor,436.39,3,May,Debit
+ORD1455,CUST147,Chicago,Furniture,281.43,1,Jul,Credit Card
+ORD1456,CUST13,Seattle,Electronics,311.69,5,Sep,Amazon Pay
+ORD1457,CUST118,Chicago,Decor,497.82,2,Feb,Credit Card
+ORD1458,CUST60,New York,Kitchen,208.14,2,May,Debit
+ORD1459,CUST36,Chicago,Decor,166.67,2,Oct,Credit Card
+ORD1460,CUST69,Seattle,Decor,245.4,2,Dec,Debit
+ORD1461,CUST141,Atlanta,Electronics,273.89,4,May,Amazon Pay
+ORD1462,CUST70,Chicago,Electronics,404.79,3,Nov,Credit Card
+ORD1463,CUST80,Dallas,Kitchen,94.72,2,Jan,Debit
+ORD1464,CUST106,New York,Furniture,115.55,1,Jul,Amazon Pay
+ORD1465,CUST117,San Francisco,Decor,318.44,5,Apr,Debit
+ORD1466,CUST20,Atlanta,Electronics,251.18,2,Nov,PayPal
+ORD1467,CUST144,Seattle,Outdoor,111.87,1,Feb,PayPal
+ORD1468,CUST40,Seattle,Electronics,296.82,5,Mar,Amazon Pay
+ORD1469,CUST138,New York,Furniture,200.49,4,Jun,Credit Card
+ORD1470,CUST14,Atlanta,Decor,304.81,1,Jan,Amazon Pay
+ORD1471,CUST100,Atlanta,Electronics,343.23,3,May,Debit
+ORD1472,CUST10,Dallas,Kitchen,353.12,3,Feb,Debit
+ORD1473,CUST25,San Francisco,Outdoor,142.98,4,Sep,Debit
+ORD1474,CUST16,Atlanta,Kitchen,159.18,2,Mar,Debit
+ORD1475,CUST28,Dallas,Kitchen,338.61,5,Jun,PayPal
+ORD1476,CUST39,Atlanta,Electronics,244.93,5,Nov,PayPal
+ORD1477,CUST147,Chicago,Furniture,102.8,5,May,Debit
+ORD1478,CUST19,Atlanta,Kitchen,499.03,3,Dec,PayPal
+ORD1479,CUST52,Seattle,Electronics,325.99,5,Apr,Credit Card
+ORD1480,CUST55,Chicago,Furniture,103.96,4,Sep,Credit Card
+ORD1481,CUST131,Dallas,Decor,454.98,3,Sep,Amazon Pay
+ORD1482,CUST121,Dallas,Electronics,374.46,4,Dec,Amazon Pay
+ORD1483,CUST61,Dallas,Outdoor,368.28,2,Sep,Credit Card
+ORD1484,CUST11,Dallas,Decor,124.53,2,Apr,Amazon Pay
+ORD1485,CUST142,Chicago,Electronics,473.95,5,Jul,Amazon Pay
+ORD1486,CUST34,Atlanta,Furniture,247.51,4,May,PayPal
+ORD1487,CUST96,Chicago,Decor,407.88,1,Apr,PayPal
+ORD1488,CUST126,Dallas,Furniture,418.24,1,Jun,Amazon Pay
+ORD1489,CUST110,Seattle,Decor,21.55,3,Jan,PayPal
+ORD1490,CUST41,New York,Decor,297.96,2,Mar,Debit
+ORD1491,CUST113,New York,Electronics,119.07,3,Nov,Credit Card
+ORD1492,CUST101,Atlanta,Kitchen,319.45,5,Aug,Amazon Pay
+ORD1493,CUST101,San Francisco,Kitchen,365.91,1,Feb,Amazon Pay
+ORD1494,CUST94,New York,Kitchen,270.86,1,Jan,Debit
+ORD1495,CUST74,New York,Kitchen,312.6,3,Mar,Debit
+ORD1496,CUST75,Atlanta,Decor,208.44,2,Mar,PayPal
+ORD1497,CUST143,New York,Electronics,85.7,1,Apr,PayPal
+ORD1498,CUST4,San Francisco,Furniture,268.42,3,Jan,Amazon Pay
+ORD1499,CUST140,Chicago,Furniture,278.27,4,Nov,Credit Card
